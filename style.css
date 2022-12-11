@@ -75,15 +75,15 @@
 }
 #about{
     height: 740px;
-    padding: 100px 700px;
+    padding: 100px 100px;
     background-color: rgb(221, 215, 215);
     color: rgb(71, 4, 4);
     display: flex;
     justify-content: space-around;
 }
 #about img{
-    height: 450px;
-    width: 500px;
+    height: 350px;
+    width: 400px;
 }
 button{
     border: none;
@@ -94,7 +94,7 @@ button{
 }
 #about h2{
     padding-top: 20px;
-    font-size: 35px;
+    font-size: 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 600px;
 }
